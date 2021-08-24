@@ -1,8 +1,3 @@
-# Algorithms on Graphs
-Assignments in Java, C++, Python for Algorithms on Graphs on Coursera 
-
-<strong>Note:</strong> I don't have access to submitting my assignments. It's just for my personal learning purpose.
-
 ## Week 1
 [Study Notes](https://gist.github.com/akueisara/612c88a940b7e2b9c0d6a631df28375e)
 ### Programming Assignment 1: Decomposition of Graphs
